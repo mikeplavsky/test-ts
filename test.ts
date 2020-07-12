@@ -54,5 +54,5 @@ let r = makeRecord(ks, 7);
 
 console.log(r);
 
-import {retry} from "./retry.js"
+import {retry} from "./retry.ts"
 retry()
