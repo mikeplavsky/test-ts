@@ -1,3 +1,3 @@
 export function retry() {
-    console.log("Yep");
+  console.log("Yep");
 }
